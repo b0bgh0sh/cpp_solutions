@@ -1,0 +1,5 @@
+﻿  n2w.cpp
+C:\Users\Bob Ghosh\Documents\Leetcode\n2w\n2w.cpp(27,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bob Ghosh\Documents\Leetcode\n2w\n2w.cpp(110,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bob Ghosh\Documents\Leetcode\n2w\n2w.cpp(212,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  n2w.vcxproj -> C:\Users\Bob Ghosh\Documents\Leetcode\n2w\Debug\n2w.exe
